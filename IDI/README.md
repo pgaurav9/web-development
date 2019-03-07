@@ -1,5 +1,6 @@
 # Interactive Dashboard Interface
-This project is basically a CRM for the college/school-
+This project is basically a CRM for the college/school
+-
 
 It consists of two portions:
 * **API part**: check its [Readme](./api/README.md)
